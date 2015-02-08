@@ -1,2 +1,2 @@
 # sip-methods
-enumerate SIP methods
+simple enumeration of SIP methods
