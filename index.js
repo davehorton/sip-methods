@@ -10,5 +10,6 @@ exports = module.exports = [
 	'CANCEL',
 	'UPDATE',
 	'PRACK',
-	'ACK'
+	'ACK',
+	'REFER'
 ] ;
