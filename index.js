@@ -11,5 +11,6 @@ exports = module.exports = [
 	'UPDATE',
 	'PRACK',
 	'ACK',
-	'REFER'
+	'REFER',
+	'PUBLISH'
 ] ;
